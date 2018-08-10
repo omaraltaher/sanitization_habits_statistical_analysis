@@ -1,4 +1,5 @@
-# A Statistical Analysis into Personal Sanitization Habits 
+# Does Signage Increase the use of Hand Sanitizer? An A/B Test in the Real World
+
 
 ## Abstract
 With current media reports about the flu epidemic, people are being encouraged to wash and sanitize their hands often.  We explore hand sanitizer usage in various settings (retail, medical, gyms, kitchens) with and without a sign inviting the public to use the hand sanitizer.  In our experiment, we use a randomized treatment/control schedule to study the effects of the sign, and weigh the hand sanitizer bottles daily.  We also consider covariate effects from Google Trend data on flu and superbug searches.  While we found a small naive effect in a basic OLS when the sign is introduced, the use of more appropriate time-series models fails to reject the null hypothesis that the sign has no effect on usage.
